@@ -1,5 +1,5 @@
 # AI-WEB-APPLICATION
-FLASK GENDER CLASSIFICATION APPLICATION USING DATA SCIENCE
+# FLASK GENDER CLASSIFICATION APPLICATION USING DATA SCIENCE
 Recently developed an End to End application that could classify between male and female on the
 basis of name with an accuracy of 89.4%. The whole data is trained on NaiveBayesClassifier
 model. The process includes preprocessing the data turning it clean.After that, EDA is applied to
